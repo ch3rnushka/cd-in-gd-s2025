@@ -1,8 +1,8 @@
 #pragma once
 
-#include "settings.h"
-#include "world/camera.h"
-#include "world/model.h"
+#include "../settings.h"
+#include "../world/camera.h"
+#include "../world/model.h"
 
 
 namespace cg::renderer
