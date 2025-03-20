@@ -1,4 +1,4 @@
-#include "renderer/raytracer/raytracer.h"
+#include "raytracer.h"
 #include "renderer/renderer.h"
 #include "resource.h"
 
